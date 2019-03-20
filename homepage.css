@@ -41,7 +41,6 @@ body {
     flex-direction: column;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    outline: 1px solid white;
 }
 
 header {
